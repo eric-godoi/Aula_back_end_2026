@@ -1,0 +1,5 @@
+Turma: 2A | RA: 10 | Nome: eric
+Turma: 1C | RA: 12 | Nome: davi
+Turma: 2A | RA: 10 | Nome: eric
+Turma: 1C | RA: 12 | Nome: davi
+Turma: 2A | RA: 10 | Nome: eric
